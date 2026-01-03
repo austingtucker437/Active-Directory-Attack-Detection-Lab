@@ -208,7 +208,7 @@ These challenges reflect common enterprise troubleshooting scenarios and were fu
 
 ---
 
-## Conclusion
+## 🏁 Conclusion
 
 This project demonstrates hands-on SOC Analyst and Blue Team capabilities, including identity attack detection, Active Directory security controls, Windows event analysis, incident response, and recovery validation.
 
