@@ -157,8 +157,6 @@ A domain-wide account lockout policy was enforced via Default Domain Policy, tri
 **Detection**
 - Event ID 4724 — Password reset detected on the domain controller
 
-<!-- CAN'T-FAIL METHOD -->
-<img src="./screenshots/PHASE4C_Event4724_PasswordReset.png" alt="Event 4724 Password Reset Detection" width="900"/>
 
 **Summary**  
 An administrative password reset was successfully detected via Windows Security Event ID 4724, demonstrating visibility into privileged account management activity.
